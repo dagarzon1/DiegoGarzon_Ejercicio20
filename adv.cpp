@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 	double T=0.5;
-	double c=-1.0;
+	double c=1.0;
 	double h=0.1;
 	double h_t=0.01;
 	double * in_u = new double[(int) (2.0/h)];
